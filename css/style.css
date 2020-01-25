@@ -280,13 +280,4 @@ body {
 	margin-top: 72px;
 }
 /* responsive */
-@media (min-width: 900px) {
-	.hero-content {
-		flex-direction: column;
-	}
-	.hero-avatar {
-		width: 300px;
-		height: 300px;
-		border-width: 10px;
-	}
-}
+
